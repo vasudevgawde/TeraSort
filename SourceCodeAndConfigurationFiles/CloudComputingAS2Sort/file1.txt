@@ -1,0 +1,4 @@
+Starting the merge
+The file is sorted... 
+Please find the sorted file at location ./dest/ 
+Total time taken in ms :42
